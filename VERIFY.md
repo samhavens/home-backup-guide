@@ -37,3 +37,14 @@ Actual use by Bob and Roberta has not yet been observed.
 - A long outage with no willingness to relocate must produce an extended-outage action.
 - Every result includes a concrete next action, explanation tied to answers, quote scope, and saved/printable summary.
 - Browser-check full quiz, missing answer, Back, answer editing, restart, copy fallback, keyboard operation, 320 px/larger-text layout, print, and no-JavaScript fallback.
+
+## Quiz verification
+
+- 12 Node tests passed, including decision invariants across 10,368 combinations.
+- 22 browser assertions passed for recommendation paths, answer editing/cancellation, Back, restart, missing-answer handling, clipboard-denial fallback, print disclosure/restoration, and responsive layout.
+- Verified 320, 390, and 1280 px layouts; 24 px larger text had no horizontal overflow at 320 px.
+- Tested portable, wired-battery, generator, medical-assistance, and all-unknown journeys end to end.
+- Reviewed question and result screens on a phone viewport and the desktop question layout.
+- Core guide remains available if scripts fail.
+- Fresh-eyes review caught unsaved Back navigation, missing result disclosures in printing, and a generator rule that was too broad for short outages; corrected before publication.
+- Prose linter passed. Semantic review passed for direct agency, explicit unknowns, restrained recommendations, and plain parent-facing language.

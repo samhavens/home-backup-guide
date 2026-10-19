@@ -1,5 +1,7 @@
 # Visual direction
 
-A calm household reference guide: warm ivory, forest-green headings, dark readable text, a generous reading column, large buttons, and open editorial sections. The mobile page is primary. No decorative imagery, animation, or sales language competes with reading. The hero addresses Bob and Roberta directly. Controls keep their names visible. Core conclusions remain visible; expandable details hold supporting explanations.
+A calm, accessible decision tool with warm ivory surfaces, forest-green controls, and dark readable text. Preserve the existing visual identity while changing the main workflow from reading to answering.
 
-The source brief pins accessibility, direct parent-facing prose, and modest backup as the starting point. A document built in code supports these constraints. Third grounded direction: the large-print household reference booklet, following a public-library handout and consumer buying guide. The selected direction retains the challengers' clarity of progression while omitting decorative metaphors unsuitable for this audience.
+Show one multiple-choice question at a time with a progress count, descriptive radio labels, explicit Continue, Back, and a Not sure option. Do not advance automatically when an answer is selected. Move focus to the next question heading. Results name an action, planning allowance, and prepared request. Supporting reasoning and answer editing remain available without competing with the main action.
+
+Use large text, generous touch targets, ordinary document scrolling, and visible keyboard focus. Preserve larger text and print support. Keep the full reading guide in an optional disclosure below the quiz.
