@@ -24,3 +24,16 @@ Before publication, verify at phone widths 320 and 390 pixels and desktop width 
 - Reviewed the mobile opening, cost comparison, and desktop opening visually.
 
 Actual use by Bob and Roberta has not yet been observed.
+
+# Quiz acceptance plan
+
+- Define decision rules and test them before implementing the interface.
+- Low budgets cannot produce purchase recommendations for permanent equipment.
+- A portable unit cannot be recommended for automatic whole-house backup, cooling, medical-device backup, or unknown/long outage duration.
+- Quiet-only preferences cannot produce generator-first results.
+- Unknown answers lead to an explicit assessment action, not assumed property facts.
+- Medical-device answers add a direct SCE assistance action and require a device-specific backup plan; no runtime guarantee.
+- Solar remains a separate financial comparison; poor/unknown roof condition cannot become solar approval.
+- A long outage with no willingness to relocate must produce an extended-outage action.
+- Every result includes a concrete next action, explanation tied to answers, quote scope, and saved/printable summary.
+- Browser-check full quiz, missing answer, Back, answer editing, restart, copy fallback, keyboard operation, 320 px/larger-text layout, print, and no-JavaScript fallback.
